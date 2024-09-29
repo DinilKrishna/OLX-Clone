@@ -1,5 +1,6 @@
 .headerParentDiv {
-  padding: 10px;
+  color: #002f34;
+  padding: 10px 20px;
   background-color: whitesmoke;
   position: fixed;
   width: 100vw;
@@ -108,7 +109,7 @@
 
 .loginPage hr {
   margin: 0;
-  background-color: black;
+  background-color: #002f34;
   height: 2px;
 }
 
